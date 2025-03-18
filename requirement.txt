@@ -1,0 +1,7 @@
+numpy
+scipy
+pytest
+matplotlib  # For visualization
+pandas  # For data manipulation
+scikit-learn  # Optional, for comparison or data generation
+
